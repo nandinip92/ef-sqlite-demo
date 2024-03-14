@@ -1,0 +1,6 @@
+@ZooManagementSQLite_HostAddress = http://localhost:5080
+
+GET {{ZooManagementSQLite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
